@@ -1,0 +1,11 @@
+git clone git地址
+
+git pull 获取新版本
+
+git status
+
+git add .
+
+git commit -m "add new files"
+
+git push -u origin master

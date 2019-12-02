@@ -15,13 +15,13 @@ defaults:
 
 # --- 网站信息设置 ---
 # 下面填写你的博客标题
-title: varenyzc的世界
+title: 我的成长之路
 # 下面填写你的网络常用名
-name: varenyzc
+name: shileiss
 # 下面填写你的座右铭或者是个性签名
-description: 不想做安卓的前端不是好程序员.
+description: 不想做架构师的程序员不是好程序员.
 # 你博客的 url 地址，比如：https://showzeng.github.io 或者是自定义的域名
-url: https://varenyzc.github.io
+url: https://shileiss.github.io
 # 在页尾的版权时间信息，比如：2016-2018，默认是 2018 年
 copyright_time: 2019
 # 标签页的 logo 及博客的头像，如果你想引用网络图片资源，就取消下面的注解，并填写图片资源的 url 地址
@@ -40,10 +40,10 @@ show_excerpt: true
 # --- 社交链接 ---
 # 取消下面的注解，并填写相应的你要开启的社交链接
 #twitter: https://twitter.com/showzeng
-weibo: https://weibo.com/varen5201314
-github: https://github.com/varenyzc
+#weibo: https://weibo.com/varen5201314
+github: https://github.com/shileiss
 # 邮件地址前面带上 mailto:
-email: mailto:465057895@qq.com
+email: mailto:907703508@qq.com
 # RSS 订阅
 rss: true
 # --- 社交链接 ---
@@ -86,9 +86,9 @@ comment: true
 # 来必力 uid
 # livere_uid:
 # gitment 用户主，即 GitHub 用户名
-gitment_owner: varenyzc
+gitment_owner: shileiss
 # GitHub pages 仓库名，如：showzeng.github.io
-gitment_repo: varenyzc.github.io
+gitment_repo: shileiss.github.io
 # gitment 提供的对应 id 和 secret
 gitment_client_id: 76bb22ffd69cb9a2dc11
 gitment_secret: 1bc48766be80fbcb2802679ab796d76ac4fafe44
