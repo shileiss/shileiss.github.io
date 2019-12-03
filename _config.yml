@@ -51,7 +51,7 @@ rss: true
 
 # --- 站点统计 ---
 # 如果你想开启站点统计，取消下面一行注解，并填写相应统计运营商给的 id，可支持多个同时开启
-#site_statistics: true
+site_statistics: true
 # cnzz (友盟统计)
 #cnzz_id: 1274425891
 # Baidu (百度统计)
