@@ -3,7 +3,7 @@ title: "Dubbo 使用指南"
 date: 2019-12-05 10:00:00 +0800
 category: Dubbo
 tags: [Dubbo, start]
-excerpt: 本文主要说明一些常用的 Markdown 语法及主题 Minimalism 中的渲染效果。
+excerpt: 本文主要主要说明Dubbo的概念和基本使用方法。
 ---
 
 # Dubbo 使用指南
