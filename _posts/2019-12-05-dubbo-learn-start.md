@@ -1,3 +1,11 @@
+---
+title: "Dubbo 使用指南"
+date: 2019-12-05 10:00:00 +0800
+category: Dubbo
+tags: [Dubbo, start]
+excerpt: 本文主要说明一些常用的 Markdown 语法及主题 Minimalism 中的渲染效果。
+---
+
 # Dubbo 使用指南
 
 > 随着互联网的发展，之前的架构已经无法满足正常的需要，所以出现了SOA的架构。为满足这一架构，Alibaba公司出品了Dubbo的框架，该框架在国内的电商平台上使用的很广泛。这样一个优秀的架构也成为了Apache的孵化项目，可以预见Dubbo的框架以后会越来越成功。
