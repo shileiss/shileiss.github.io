@@ -37,7 +37,7 @@ $docker images
 
 - **创建挂载目录**
 
-```shell script
+```shell
 $mkdir -p /data/nginx/{conf,conf.d,html,logs}
 ```
 
