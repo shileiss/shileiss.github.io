@@ -19,7 +19,7 @@ $docker pull nginx:latest
 ```
 ### 2、查看本地镜像
 
-```shell script
+```shell
 $docker images
 ````
 
