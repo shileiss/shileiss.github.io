@@ -91,26 +91,22 @@ Git 是目前最流行的源代码管理工具。为规范开发，保持代码�
 目前，社区有多种 Commit message 的写法规范。来自Angular 规范是目前使用最广的写法，比较合理和系统化。
 ### **Commit messages的基本语法**
 
-当前业界应用的比较广泛的是 Angular Git Commit Guidelines
-
-> https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines
+当前业界应用的比较广泛的是 [Angular Git Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
 
 具体格式为:
 
 ```
-<type>: <subject>
+<type>(<scope>): <subject>
 <BLANK LINE>
 <body>
 <BLANK LINE>
 <footer>
 ```
 
-
-
 - type: 本次 commit 的类型，诸如 bugfix docs style 等
 - scope: 本次 commit 波及的范围
-- subject: 简明扼要的阐述下本次 commit 的主旨，在原文中特意强调了几点 1. 使用祈使句，是不是很熟悉又陌生的一个词，来传送门在此 祈使句 2. 首字母不要大写 3. 结尾无需添加标点
-- body: 同样使用祈使句，在主体内容中我们需要把本次 commit 详细的描述一下，比如此次变更的动机，如需换行，则使用 |
+- subject: 简明扼要的阐述下本次 commit 的主旨，在原文中特意强调了几点 1. 使用祈使句 2. 首字母不要大写 3. 结尾无需添加标点
+- body: 同样使用祈使句，在主体内容中我们需要把本次 commit 详细的描述一下，比如此次变更的动机，如需换行，则使用|
 - footer: 描述下与之关联的 issue 或 break change，详见案例
 
 #### **Type的类别说明：**
@@ -140,6 +136,6 @@ Git 是目前最流行的源代码管理工具。为规范开发，保持代码�
 
 ## **参考链接**
 
-> http://www.ruanyifeng.com/blog/2012/07/git.html
-> http://ivweb.io/topic/58abda9d2117ae2f4995b4a8
-> https://segmentfault.com/a/1190000009048911
+> [http://www.ruanyifeng.com/blog/2012/07/git.html](http://www.ruanyifeng.com/blog/2012/07/git.html)
+> [http://ivweb.io/topic/58abda9d2117ae2f4995b4a8](http://ivweb.io/topic/58abda9d2117ae2f4995b4a8)
+> [https://segmentfault.com/a/1190000009048911](https://segmentfault.com/a/1190000009048911)
