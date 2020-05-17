@@ -10,8 +10,6 @@ excerpt: 本文主要说明Git分支开发规范。
 
 Git 是目前最流行的源代码管理工具。为规范开发，保持代码提交记录以及 git 分支结构清晰，方便后续维护，现规范 git 的相关操作。
 
-![img](https://mmbiz.qpic.cn/mmbiz/JfTPiahTHJhpbzGUl2Zxv3SIicibcMtOLlQ8PSf0YNRpEliaJ64W8UZ0wvaibwhADjYS8LvoSBeiaps48w65nQLzCLzg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
 ## **分支管理**
 
 ### **分支命名**
@@ -80,8 +78,6 @@ Git 是目前最流行的源代码管理工具。为规范开发，保持代码�
 (master)$: git tag -a v0.1 -m '部署包版本名'  #给版本命名，打Tag
 ```
 
-## ![img](https://mmbiz.qpic.cn/mmbiz/JfTPiahTHJhpbzGUl2Zxv3SIicibcMtOLlQ7sS2sBRg8QoKGH0xSlNNUulIQniah3XbuGeTWLXiazXTtJicc73vkEgFA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
 ## **日志规范**
 
 在一个团队协作的项目中，开发人员需要经常提交一些代码去修复bug或者实现新的feature。而项目中的文件和实现什么功能、解决什么问题都会渐渐淡忘，最后需要浪费时间去阅读代码。但是好的日志规范commit messages编写有帮助到我们，它也反映了一个开发人员是否是良好的协作者。
@@ -92,10 +88,7 @@ Git 是目前最流行的源代码管理工具。为规范开发，保持代码�
 - 帮助我们编写良好的版本发布日志
 - 让之后的维护者了解代码里出现特定变化和feature被添加的原因
 
-目前，社区有多种 Commit message 的写法规范。来自Angular 规范是目前使用最广的写法，比较合理和系统化。如下图：
-
-![img](https://mmbiz.qpic.cn/mmbiz/JfTPiahTHJhpbzGUl2Zxv3SIicibcMtOLlQDm4wbQGZWWB171KWLzHdKOjuS3tGF4nluFe4RibCDcqBkk2w2g5ibUUw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
+目前，社区有多种 Commit message 的写法规范。来自Angular 规范是目前使用最广的写法，比较合理和系统化。
 ### **Commit messages的基本语法**
 
 当前业界应用的比较广泛的是 Angular Git Commit Guidelines
