@@ -137,5 +137,4 @@ Git 是目前最流行的源代码管理工具。为规范开发，保持代码�
 ## **参考链接**
 
 > [http://www.ruanyifeng.com/blog/2012/07/git.html](http://www.ruanyifeng.com/blog/2012/07/git.html)
-> [http://ivweb.io/topic/58abda9d2117ae2f4995b4a8](http://ivweb.io/topic/58abda9d2117ae2f4995b4a8)
 > [https://segmentfault.com/a/1190000009048911](https://segmentfault.com/a/1190000009048911)
