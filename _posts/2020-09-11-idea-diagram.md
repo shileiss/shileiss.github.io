@@ -1,8 +1,10 @@
+---
 title: "使用IntelliJ IDEA查看类图"
 date: 2020-09-11 15:00:00 +0800
 category: IntelliJ IDEA
 tags: [IntelliJ IDEA]
 excerpt: 本文主要主要说明IntelliJ IDEA查看类图的方法。
+---
 
 ## 使用 IntelliJ IDEA 查看类图，内容极度舒适
 
